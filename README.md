@@ -10,7 +10,10 @@
 - Pygame library
 
 ## Installation and Usage
-
+0. Clone Repo:
+    ```bash
+     https://github.com/PeterGituma/Pythons-s-Connect-4.git
+    ```
 1. Install dependencies:
     ```bash
     pip install pygame
