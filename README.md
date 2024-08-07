@@ -11,22 +11,17 @@
 
 ## Installation and Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/brkahmed/Connect-Four.git
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
     ```bash
     pip install pygame
     ```
 
-3. Run the game:
+2. Run the game:
     ```bash
     python main.py
     ```
 
-4. Enjoy playing Connect Four!
+3. Enjoy playing Connect Four!
 
 ## How to Play
 
